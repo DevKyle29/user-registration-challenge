@@ -15,9 +15,11 @@
 
 /* --- Nav references --- */
 
-    // code here...
+    const userSelect = document.getElementsByClassName("users-tab-button");
+    console.log(userSelect);
 
-
+    const registerSelect =document.getElementsByClassName("register-tab-button");
+    console.log(registerSelect);
 /* --- Form field references --- */
 
     // code here...
